@@ -7,4 +7,8 @@ package com.yang;
 public class Student {
     private String name;
     private int age;
+    public static void main(String[] args) {
+        System.out.println("good good study");
+        System.out.println("day day up");
+    }
 }
